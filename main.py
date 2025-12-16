@@ -1,6 +1,6 @@
 from fastapi import FastAPI
 from pydantic import BaseModel
-from kerykeion import KrInstance
+from kerykeion import AstrologicalSubject
 
 app = FastAPI()
 
